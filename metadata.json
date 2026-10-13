@@ -1,0 +1,6 @@
+{
+  "name": "Adflect NextGen Program",
+  "description": "A 12-month digital skills, career and business development program by Adflect Business Solutions, founded by Mudassir Mirza.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
